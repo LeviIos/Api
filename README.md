@@ -6,3 +6,10 @@ https://www.postman.com/levi-8455706/workspace/demoshopping/collection/45269216-
 
 
 https://github.com/LeviIos/Api/blob/main/Demoshop.postman_test_runDoroshev.json
+
+
+# Тестируем SOAP-сервис
+
+https://www.postman.com/levi-8455706/demoshopping/request/pnswtai/
+
+https://github.com/LeviIos/Api/blob/main/SOAP%20test.postman_test_runDoroshev.json
