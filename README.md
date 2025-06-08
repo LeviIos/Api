@@ -13,3 +13,6 @@ https://github.com/LeviIos/Api/blob/main/Demoshop.postman_test_runDoroshev.json
 https://www.postman.com/levi-8455706/demoshopping/request/pnswtai/
 
 https://github.com/LeviIos/Api/blob/main/SOAP%20test.postman_test_runDoroshev.json
+
+# Добавляем генерацию данных и тест-кейсы в коллекцию
+https://github.com/LeviIos/Api/blob/main/G10DoroshevTestRunn.pdf
