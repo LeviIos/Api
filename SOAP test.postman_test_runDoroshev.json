@@ -1,0 +1,176 @@
+{
+	"id": "8d1e0b32-f7bc-4adf-8af5-761a68cff81f",
+	"name": "SOAP test",
+	"timestamp": "2025-06-08T21:09:32.902Z",
+	"collection_id": "45269216-a6c0b001-169b-4d6b-8b50-0a740ba3b91c",
+	"folder_id": 0,
+	"environment_id": "45269216-c13c8789-d4d0-4f9c-bddb-0d5c1c03d804",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-06-08T21:09:30.344Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "fe5b6cf3-130a-4f57-ae0b-e2b6df4c6d75",
+			"name": "ListOfCountryNamesByName",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso",
+			"time": 138,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				138
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "3e52e446-b8c0-4da5-8909-a766ef5858ca",
+			"name": "ListOfCurrenciesByName",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+			"time": 347,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				347
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "0ab72e1e-8739-432d-ae33-d3d83c698296",
+			"name": "ListOfCountryNamesByName",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+			"time": 334,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				334
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "0aa6992b-185b-4d7c-a0e6-9d16caac6951",
+			"name": "CountryName",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+			"time": 195,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				195
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "737e5ace-1516-4afc-9cfb-f403ae353a4f",
+			"name": "CountryISOCode",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+			"time": 180,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				180
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "505cd86c-6ea3-4e89-bc16-5934e8ebe7b6",
+			"name": "FullCountryInfo",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+			"time": 186,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				186
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "14684ccb-3619-4228-91a2-69236a6c564b",
+			"name": "LanguageName",
+			"url": "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL",
+			"time": 210,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				210
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1590,
+	"collection": {
+		"requests": [
+			{
+				"id": "fe5b6cf3-130a-4f57-ae0b-e2b6df4c6d75",
+				"method": "POST"
+			},
+			{
+				"id": "3e52e446-b8c0-4da5-8909-a766ef5858ca",
+				"method": "POST"
+			},
+			{
+				"id": "0ab72e1e-8739-432d-ae33-d3d83c698296",
+				"method": "POST"
+			},
+			{
+				"id": "0aa6992b-185b-4d7c-a0e6-9d16caac6951",
+				"method": "POST"
+			},
+			{
+				"id": "737e5ace-1516-4afc-9cfb-f403ae353a4f",
+				"method": "POST"
+			},
+			{
+				"id": "505cd86c-6ea3-4e89-bc16-5934e8ebe7b6",
+				"method": "POST"
+			},
+			{
+				"id": "14684ccb-3619-4228-91a2-69236a6c564b",
+				"method": "POST"
+			}
+		]
+	}
+}
